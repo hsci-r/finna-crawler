@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: Finna-crawler
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Eetu
+    family-names: Mäkelä
+    email: eetu.makela@helsinki.fi
+    affiliation: University of Helsinki
+    orcid: 'https://orcid.org/0000-0002-8366-8414'
+repository-code: 'https://github.com/hsci-r/finna-crawler/'
+abstract: >+
+  Crawler meant for downloading records and their metadata
+  from OAI-PMH API of the Finnish cultural heritage
+  aggregator Finna.
+license: MIT
