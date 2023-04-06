@@ -4,15 +4,18 @@ message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
+license: MIT
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7805498
 authors:
   - given-names: Eetu
     family-names: Mäkelä
     email: eetu.makela@helsinki.fi
     affiliation: University of Helsinki
     orcid: 'https://orcid.org/0000-0002-8366-8414'
-repository-code: 'https://github.com/hsci-r/finna-crawler/'
 abstract: >+
   Crawler meant for downloading records and their metadata
   from OAI-PMH API of the Finnish cultural heritage
   aggregator Finna.
-license: MIT
+repository-code: 'https://github.com/hsci-r/finna-crawler/'
